@@ -1,0 +1,30 @@
+body {
+  font-family: Arial, Helvetica, sans-serif;
+} .todo-grid {
+  display: grid;
+  grid-template-columns: 220px 170px 100px;
+}.delete-button {
+  background-color: rgb(214, 15, 15);
+  color: white;
+  border: none;
+  padding: 8px;
+}.Add {
+  padding: 8px;
+  padding-right: 15px;
+  padding-left: 13px;
+  background-color: rgb(16, 225, 16);
+  border: none;
+}.js-date-input {
+  font-size: 20px;
+  border: none;
+}.js-name-input {
+  width: 200px;
+  height: 27px;
+  font-size: 20px;
+}.name {
+  font-size: 25px;
+}.date {
+  font-size: 25px;
+}.list {
+  font-size: 40px;
+}
